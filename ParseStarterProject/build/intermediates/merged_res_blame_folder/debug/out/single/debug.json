@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/layout_activity_main2.xml.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/layout_activity_user_feed.xml.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/layout/activity_user_feed.xml"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/drawable_img.png.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/drawable/img.png"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/layout_activity_user_list.xml.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/menu_share_menu.xml.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/menu/share_menu.xml"
+    },
+    {
+        "merged": "com.parse.starter.ParseStarterProject-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.parse.starter.ParseStarterProject-main-30:/mipmap-hdpi/ic_launcher.png"
+    }
+]

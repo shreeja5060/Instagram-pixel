@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 33
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        applicationId "com.parse.starter"
+        minSdkVersion 26 //21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.parse.bolts:bolts-tasks:1.4.0'
+    implementation 'com.parse:parse-android:1.13.0'
+
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'com.github.parse-community.Parse-SDK-Android:bolts-tasks:4.2.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+
+
+}
